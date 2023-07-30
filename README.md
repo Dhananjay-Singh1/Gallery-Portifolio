@@ -2,7 +2,7 @@
 This repository contains a nature images portfolio created using HTML & CSS. The portfolio showcases a collection of stunning nature images with interactive animations to enhance the user experience.
 
 # Preview
-
+You can access it here: https://dhananjay-singh1.github.io/Gallery-Portifolio/
 
 # How to Use
 1. Clone the respository to your local machine.
